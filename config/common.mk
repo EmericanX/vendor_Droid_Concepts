@@ -57,8 +57,8 @@ PRODUCT_COPY_FILES += \
 
 # Terminal Emulator
 PRODUCT_COPY_FILES +=  \
-    vendor/Droid_Concepts/proprietary/Term.apk:system/app/Term.apk \
-    vendor/Droid_Concepts/proprietary/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
+    vendor/Droid_Concepts/prebuilt/common/app/Term.apk:system/app/Term.apk \
+    vendor/Droid_Concepts/prebuilt/common/lib/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
 
 # Bring in camera effects
 PRODUCT_COPY_FILES +=  \
