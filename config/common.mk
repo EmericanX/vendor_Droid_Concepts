@@ -152,10 +152,10 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/Droid_Concepts/overlay/common
 
 # Set Droid_Concepts_BUILDTYPE
 
-DROID_CONCEPTS_VERSION := "Droid_Concepts"-$(shell date +"%m-%d-%y")
+DC_VERSION := "Droid_Concepts"-$(shell date +"%m-%d-%y")
 
 PRODUCT_PROPERTY_OVERRIDES += \
-  ro.dc.version=$(DROID_CONCEPTS_VERSION) \
+  ro.dc.version=$(DC_VERSION) \
   ro.modversion=Droid_Concepts-$(shell date +"%m-%d-%y")
 
 -include $(WORKSPACE)/hudson/image-auto-bits.mk
