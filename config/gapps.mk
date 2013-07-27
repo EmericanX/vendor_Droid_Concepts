@@ -6,6 +6,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GmsCore.apk:system/app/GmsCore.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleFeedback.apk:system/app/GoogleFeedback.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
@@ -60,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/hmm_symbols:system/usr/srec/en-US/hmm_symbols \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/hotword_normalizer:system/usr/srec/en-US/hotword_normalizer \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/hotword_word_symbols:system/usr/srec/en-US/hotword_word_symbols \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/lintrans_model:system/usr/srec/en-US/lintrans_model \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/metadata:system/usr/srec/en-US/metadata \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/norm_fst:system/usr/srec/en-US/norm_fst \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/normalizer:system/usr/srec/en-US/normalizer \
