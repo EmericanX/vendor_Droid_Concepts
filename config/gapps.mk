@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/phonelist:system/usr/srec/en-US/phonelist \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/phone_state_map:system/usr/srec/en-US/phone_state_map \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/rescoring_lm:system/usr/srec/en-US/rescoring_lm \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/symbols:system/usr/srec/en-US/symbols \
     vendor/Droid_Concepts/prebuilt/droid_concepts/usr/srec/en-US/wordlist:system/usr/srec/en-US/wordlist
 
 # Faceunlock
