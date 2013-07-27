@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/QuickSearchBox.apk:system/app/QuickSearchBox.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/SetupWizard.apk app/Provision.apk:system/app/Provision.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Talk.apk:system/app/Talk.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Talkback.apk:system/app/Talkback.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
