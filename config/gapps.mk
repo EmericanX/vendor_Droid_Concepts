@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/features.xml:system/etc/permissions/features.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/preferred-apps/google.xml:system/etc/preferred-apps/google.xml \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/etc/g.prop:system/etc/ g.prop\
+    vendor/Droid_Concepts/prebuilt/droid_concepts/etc/g.prop:system/etc/g.prop \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
