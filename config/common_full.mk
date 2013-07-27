@@ -1,5 +1,5 @@
-# Inherit common CM stuff
-$(call inherit-product, vendor/cm/config/common.mk)
+# Inherit common Droid_Concepts stuff
+$(call inherit-product, vendor/Droid_Concepts/config/common.mk)
 
 # Bring in all audio files
 include frameworks/base/data/sounds/NewAudio.mk
@@ -10,10 +10,10 @@ include frameworks/base/data/sounds/AudioPackageNewWave.mk
 # Bring in all video files
 $(call inherit-product, frameworks/base/data/videos/VideoPackage2.mk)
 
-# Include CM audio files
-include vendor/cm/config/cm_audio.mk
+# Include Droid_Concepts audio files
+include vendor/Droid_Concepts/config/dc_audio.mk
 
-# Optional CM packages
+# Optional Droid_Concepts packages
 PRODUCT_PACKAGES += \
     HoloSpiralWallpaper \
     MagicSmokeWallpapers \

@@ -1,11 +1,11 @@
-# Inherit common CM stuff
-$(call inherit-product, vendor/cm/config/common.mk)
+# Inherit common Droid_Concepts stuff
+$(call inherit-product, vendor/Droid_Concepts/config/common.mk)
 
 # Bring in all audio files
 include frameworks/base/data/sounds/NewAudio.mk
 
-# Include CM audio files
-include vendor/cm/config/cm_audio.mk
+# Include Droid_Concepts audio files
+include vendor/Droid_Concepts/config/dc_audio.mk
 
 # Default ringtone
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -16,8 +16,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # BT config
 PRODUCT_COPY_FILES += \
     system/bluetooth/data/main.nonsmartphone.conf:system/etc/bluetooth/main.conf
-
-ifeq ($(TARGET_SCREEN_WIDTH) $(TARGET_SCREEN_HEIGHT),$(space))
-    PRODUCT_COPY_FILES += \
-        vendor/cm/prebuilt/common/bootanimation/800.zip:system/media/bootanimation.zip
-endif
