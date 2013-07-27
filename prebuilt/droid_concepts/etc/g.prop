@@ -1,0 +1,5 @@
+# begin addon properties
+ro.addon.type=gapps
+ro.addon.platform=jb43
+ro.addon.version=4.3_DroidTh3ory
+# end addon properties
