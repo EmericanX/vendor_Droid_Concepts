@@ -74,7 +74,7 @@ PRODUCT_COPY_FILES += \
 #
 #
 PRODUCT_COPY_FILES += \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/FaceLock.apk:system/app/FaceLock.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin/full_model.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin \
     vendor/Droid_Concepts/prebuilt/droid_concepts/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin/full_model.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin \
