@@ -33,8 +33,10 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
     vendor/Droid_Concepts/prebuilt/droid_concepts/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libfrsdk.so:system/lib/libfrsdk.so \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgames_rtmp_jni.so:system/lib/libgames_rtmp_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgcomm_jni.so:system/lib/libgcomm_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgoogle_recognizer_jni.so:system/lib/libgoogle_recognizer_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgtalk_jni.so:system/lib/libgtalk_jni.so \
