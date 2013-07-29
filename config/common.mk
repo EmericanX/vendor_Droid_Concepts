@@ -86,7 +86,7 @@ include vendor/Droid_Concepts/config/themes_common.mk
 
 # Required Droid_Concepts packages
 PRODUCT_PACKAGES += \
-    Camera \
+    Focal \
     Development \
     LatinIME \
     Superuser \
