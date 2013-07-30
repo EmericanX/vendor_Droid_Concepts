@@ -106,11 +106,10 @@ PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
-    Droid_ConceptsWallpapers \
+    DCWallpapers \
     Apollo \
-    Droid_ConceptsUpdater \
-    Droid_ConceptsFileManager \
-    LockClock
+    DCFileManager \
+    LockClock 
 
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
