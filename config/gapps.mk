@@ -42,6 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgtalk_jni.so:system/lib/libgtalk_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgtalk_stabilize.so:system/lib/libgtalk_stabilize.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libvideochat_jni.so:system/lib/libvideochat_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
