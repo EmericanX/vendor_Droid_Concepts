@@ -149,8 +149,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGE_OVERLAYS += vendor/Droid_Concepts/overlay/dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/Droid_Concepts/overlay/common
 
-# Set Droid_Concepts_BUILDTYPE
-
+# Set Droid Concepts build info
+PLATFORM_VERSION_CODENAME=UNOFFICIAL
 DC_VERSION := "Droid_Concepts"-$(shell date +"%m-%d-%y")
 
 PRODUCT_PROPERTY_OVERRIDES += \
