@@ -23,6 +23,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Centaurus.ogg \
     ro.config.notification_sound=Argon.ogg
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
+
 # Enable ADB authentication and root
 ifneq ($(TARGET_BUILD_VARIANT),eng)
 ADDITIONAL_DEFAULT_PROPERTIES += \
