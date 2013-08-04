@@ -18,9 +18,16 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.android.dateformat=MM-dd-yyyy \
     ro.com.android.dataroaming=false
 
+# Droid Concepts default ringtone and notification sound
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.ringtone=Centaurus.ogg \
+    ro.config.notification_sound=Argon.ogg
+
+# Enable ADB authentication and root
 ifneq ($(TARGET_BUILD_VARIANT),eng)
-# Enable ADB authentication
-ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=1
+ADDITIONAL_DEFAULT_PROPERTIES += \
+    ro.adb.secure=0 \
+    ro.secure=0
 endif
 
 # Droid Concepts 4.3 Gapps
