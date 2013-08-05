@@ -27,7 +27,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 ifneq ($(TARGET_BUILD_VARIANT),eng)
 ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0 \
-    ro.secure=0
+    ro.secure=0 \
+    persist.sys.root_access=1 \
+    persist.service.adb.enable=1
 endif
 
 # Droid Concepts 4.3 Gapps
