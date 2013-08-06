@@ -4,6 +4,7 @@
 PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/ConfigUpdater.apk:system/app/ConfigUpdater.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GenieWidget.apk:system/app/GenieWidget.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Gmail.apk:system/app/Gmail.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GmsCore.apk:system/app/GmsCore.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
