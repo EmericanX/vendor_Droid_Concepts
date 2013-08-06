@@ -28,7 +28,7 @@ ifneq ($(TARGET_BUILD_VARIANT),eng)
 ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0 \
     ro.secure=0 \
-    persist.sys.root_access=1 \
+    persist.sys.root_access=3 \
     persist.service.adb.enable=1
 endif
 
