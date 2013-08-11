@@ -114,7 +114,7 @@ PRODUCT_PACKAGES += \
 
 # Custom Droid_Concepts packages
 PRODUCT_PACKAGES += \
-    Trebuchet \
+    DCHome \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
