@@ -123,11 +123,6 @@ PRODUCT_PACKAGES += \
     DCFileManager \
     LockClock 
 
-# CM Hardware Abstraction Framework
-PRODUCT_PACKAGES += \
-    org.cyanogenmod.hardware \
-    org.cyanogenmod.hardware.xml
-
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
 
