@@ -8,6 +8,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Gmail.apk:system/app/Gmail.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GmsCore.apk:system/app/GmsCore.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleEars.apk:system/app/GoogleEars.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/GoogleEarth.apk:system/app/GoogleEarth.apk \
