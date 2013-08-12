@@ -24,7 +24,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.notification_sound=Argon.ogg
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.selinux=1
+    ro.build.selinux=1 \
+    dalvik.vm.dexopt-data-only=1
 
 # Enable ADB authentication and root
 ifneq ($(TARGET_BUILD_VARIANT),eng)
