@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgames_rtmp_jni.so:system/lib/libgames_rtmp_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgoogle_recognizer_jni.so:system/lib/libgoogle_recognizer_jni.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libgoggles_clientvision.so:system/lib/libgoggles_clientvision.so \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/libplus_jni_v8.so:system/lib/libplus_jni_v8.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/librs.antblur.so:system/lib/librs.antblur.so \
     vendor/Droid_Concepts/prebuilt/droid_concepts/lib/librs.antblur_constant.so:system/lib/librs.antblur_constant.so \
