@@ -33,7 +33,7 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0 \
     ro.secure=0 \
     persist.sys.root_access=3 \
-    persist.sys.usb.config=mtp,adb
+    persist.sys.usb.config=mtp
 endif
 
 # Droid Concepts 4.3 Gapps
