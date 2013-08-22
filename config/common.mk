@@ -1,7 +1,7 @@
 PRODUCT_BRAND ?= droid_concepts
 
 SUPERUSER_EMBEDDED := true
-SUPERUSER_PACKAGE_PREFIX := com.android.settings.cyanogenmod.superuser
+SUPERUSER_PACKAGE_PREFIX := com.android.settings.dc.superuser
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=droid_concepts
@@ -33,7 +33,7 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0 \
     ro.secure=0 \
     persist.sys.root_access=3 \
-    persist.service.adb.enable=1
+    persist.sys.usb.config=mtp
 endif
 
 # Droid Concepts 4.3 Gapps
