@@ -116,7 +116,6 @@ PRODUCT_PACKAGES += \
 # Custom Droid_Concepts packages
 PRODUCT_PACKAGES += \
     DCFileManager \
-    DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
     DCWallpapers \
