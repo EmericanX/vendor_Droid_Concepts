@@ -33,7 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Videos.apk:system/app/Videos.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Wallet.apk:system/app/Wallet.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Youtube.apk:system/app/YouTube.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/YouTube.apk:system/app/YouTube.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
