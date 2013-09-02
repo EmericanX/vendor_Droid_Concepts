@@ -20,19 +20,20 @@ PRODUCT_COPY_FILES += \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Hangouts.apk:system/app/Hangouts.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Keep.apk:system/app/Keep.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Maps.apk:system/app/Maps.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/MediaUploader.apk:system/app/ediaUploader.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/MediaUploader.apk:system/app/MediaUploader.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Music.apk:system/app/Music.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/PlayGames.apk:system/app/PlayGames.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/PlusOne.apk:system/app/PlusOne.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/QuickSearchBox.apk:system/app/QuickSearchBox.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Street.apk:system/app/Street.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Vending.apk:system/app/Vending.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Videos.apk:system/app/Videos.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/app/Wallet.apk:system/app/Wallet.apk \
-    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Youtube.apk:system/app/Youtube.apk \
+    vendor/Droid_Concepts/prebuilt/droid_concepts/app/Youtube.apk:system/app/YouTube.apk \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/Droid_Concepts/prebuilt/droid_concepts/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
