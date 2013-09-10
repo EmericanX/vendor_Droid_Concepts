@@ -23,6 +23,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Centaurus.ogg \
     ro.config.notification_sound=Argon.ogg
 
+# CM Hardware Abstraction Framework
+PRODUCT_PACKAGES += \
+    org.cyanogenmod.hardware \
+    org.cyanogenmod.hardware.xml
+
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1 \
     dalvik.vm.dexopt-data-only=1
